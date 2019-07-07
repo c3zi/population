@@ -6,7 +6,7 @@
 ### Usage
 To run an example just execute: `php app.php`
 
-* Example file is available in `./data\` directory
+* Example file is available in `./data/` directory
 
 ### Quality
 To run unit tests execute: `./vendor/bin/phpunit`

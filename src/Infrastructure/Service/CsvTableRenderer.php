@@ -13,6 +13,8 @@ use Rtb\Population\Domain\Service\TableRenderer;
 
 class CsvTableRenderer implements TableRenderer
 {
+    private const EMPTY_DATA = '-';
+
     /** @var string */
     private $path;
 
@@ -45,11 +47,11 @@ class CsvTableRenderer implements TableRenderer
 
             $fields = [
                 $user->country(),
-                $user->population() ? $user->formattedPopulation() : '--',
-                $user->date() ? $user->date()->format('F j, Y') : '--',
-                $user->internetUsers() ? $user->formattedInternetUsers() : '--',
-                $internetToPopulation ? $internetToPopulation . '%' : '--',
-                $internetToWorldwideInternet ? $internetToWorldwideInternet . '%' : '--',
+                $user->population() ? $user->formattedPopulation() : self::EMPTY_DATA,
+                $user->date() ? $user->date()->format('F j, Y') : self::EMPTY_DATA,
+                $user->internetUsers() ? $user->formattedInternetUsers() : self::EMPTY_DATA,
+                $internetToPopulation ? $internetToPopulation . '%' : self::EMPTY_DATA,
+                $internetToWorldwideInternet ? $internetToWorldwideInternet . '%' : self::EMPTY_DATA,
             ];
 
             fputcsv($fp, $fields);

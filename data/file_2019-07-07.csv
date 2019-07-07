@@ -50,7 +50,7 @@ Nepal,"29 609 623","July 1, 2019","6 271 270",21%,0.16441%
 Yemen,"29 161 922","July 1, 2019","7 548 512",26%,0.19789%
 Mozambique,"27 909 798","August 1, 2017","6 162 217",22%,0.16155%
 "Ivory coast","25 823 071","July 1, 2019","10 650 818",41%,0.27922%
-"North korea","25 450 000","July 1, 2019",--,--,--
+"North korea","25 450 000","July 1, 2019",-,-,-
 Australia,"25 421 200","July 7, 2019","21 159 515",83%,0.55471%
 Madagascar,"25 263 000","July 1, 2019","2 505 948",10%,0.0657%
 Cameroon,"24 348 251","July 1, 2019","5 580 465",23%,0.1463%
@@ -101,7 +101,7 @@ Austria,"8 869 537","April 1, 2019","7 681 957",87%,0.20139%
 Switzerland,"8 555 541","March 31, 2019","7 942 864",93%,0.20823%
 "Sierra leone","7 901 454","July 1, 2019","1 000 575",13%,0.02623%
 Togo,"7 538 000","July 1, 2019","963 795",13%,0.02527%
-"Hong kong (china)","7 482 500","December 31, 2018",--,--,--
+"Hong kong (china)","7 482 500","December 31, 2018",-,-,-
 Paraguay,"7 152 703","July 1, 2019","4 160 340",58%,0.10907%
 Laos,"7 123 205","July 1, 2019","1 749 517",25%,0.04587%
 Bulgaria,"7 000 039","December 31, 2018","4 492 326",64%,0.11777%
@@ -120,7 +120,7 @@ Slovakia,"5 450 421","December 31, 2018","4 446 926",82%,0.11658%
 "Republic of the congo","5 380 508","July 1, 2019","455 055",8%,0.01193%
 Norway,"5 334 762","April 1, 2019","5 120 225",96%,0.13423%
 "Costa rica","5 058 007","June 30, 2019","3 511 549",69%,0.09206%
-Palestine,"4 976 684","July 1, 2019",--,--,--
+Palestine,"4 976 684","July 1, 2019",-,-,-
 "New zealand","4 971 210","July 7, 2019","4 273 353",86%,0.11203%
 Ireland,"4 857 000","April 1, 2018","4 024 552",83%,0.10551%
 Oman,"4 614 806","July 6, 2019","3 717 818",81%,0.09747%
@@ -135,7 +135,7 @@ Uruguay,"3 518 552","June 30, 2019","2 360 269",67%,0.06188%
 Eritrea,"3 497 117","July 1, 2019","66 402",2%,0.00174%
 "Bosnia and herzegovina","3 301 000","July 1, 2019","2 437 026",74%,0.06389%
 Mongolia,"3 266 338","July 7, 2019","729 236",22%,0.01912%
-"Puerto rico (u.s.)","3 195 153","July 1, 2018",--,--,--
+"Puerto rico (u.s.)","3 195 153","July 1, 2018",-,-,-
 Armenia,"2 962 100","March 31, 2019","2 043 110",69%,0.05356%
 Albania,"2 862 427","January 1, 2019","2 105 339",74%,0.05519%
 Lithuania,"2 791 133","June 1, 2019","2 243 448",80%,0.05881%
@@ -146,18 +146,18 @@ Namibia,"2 458 936","July 1, 2019","933 450",38%,0.02447%
 Botswana,"2 338 851","July 1, 2019","948 977",41%,0.02488%
 Gabon,"2 172 579","July 1, 2019","1 019 049",47%,0.02672%
 Slovenia,"2 080 908","January 1, 2019","1 640 893",79%,0.04302%
-"North macedonia","2 075 301","December 31, 2017",--,--,--
+"North macedonia","2 075 301","December 31, 2017",-,-,-
 Lesotho,"2 007 201","April 10, 2016","665 312",33%,0.01744%
 Latvia,"1 913 900","June 1, 2019","1 585 471",83%,0.04156%
-Kosovo,"1 795 666","December 31, 2018",--,--,--
+Kosovo,"1 795 666","December 31, 2018",-,-,-
 Guinea-bissau,"1 604 528","July 1, 2019","73 148",5%,0.00192%
 Bahrain,"1 543 300","July 1, 2019","1 431 090",93%,0.03752%
-"East timor","1 387 149","July 1, 2019",--,--,--
+"East timor","1 387 149","July 1, 2019",-,-,-
 "Trinidad and tobago","1 359 193","June 30, 2018","1 058 744",78%,0.02776%
 "Equatorial guinea","1 358 276","July 1, 2018","332 642",24%,0.00872%
 Estonia,"1 324 820","January 1, 2019","1 153 786",87%,0.03025%
 Mauritius,"1 265 577","July 1, 2018","702 911",56%,0.01843%
-Eswatini,"1 093 238","May 11, 2017",--,--,--
+Eswatini,"1 093 238","May 11, 2017",-,-,-
 Djibouti,"1 078 373","July 1, 2019","532 849",49%,0.01397%
 Fiji,"884 887","September 17, 2017","452 479",51%,0.01186%
 Comoros,"873 724","July 1, 2019","69 020",8%,0.00181%
@@ -165,106 +165,106 @@ Cyprus,"864 200","December 31, 2017","952 369",110%,0.02497%
 Guyana,"782 766","July 1, 2019","290 375",37%,0.00761%
 Bhutan,"741 672","July 1, 2019","388 541",52%,0.01019%
 "Solomon islands","680 806","July 1, 2019","72 872",11%,0.00191%
-"Macau (china)","670 900","March 31, 2019",--,--,--
+"Macau (china)","670 900","March 31, 2019",-,-,-
 Montenegro,"622 359","January 1, 2018","448 260",72%,0.01175%
 Luxembourg,"613 894","January 1, 2019","570 794",93%,0.01496%
-"Western sahara","582 463","July 1, 2019",--,--,--
+"Western sahara","582 463","July 1, 2019",-,-,-
 Suriname,"581 372","July 1, 2019","275 785",47%,0.00723%
-"Cape verde","550 483","July 1, 2019",--,--,--
+"Cape verde","550 483","July 1, 2019",-,-,-
 Malta,"475 701","December 31, 2017","344 970",73%,0.00904%
-Transnistria,"469 000","January 1, 2018",--,--,--
+Transnistria,"469 000","January 1, 2018",-,-,-
 Brunei,"442 400","July 1, 2018","406 705",92%,0.01066%
 Belize,"398 050","July 1, 2018","176 400",44%,0.00462%
-Bahamas,"385 340","July 1, 2019",--,--,--
+Bahamas,"385 340","July 1, 2019",-,-,-
 Maldives,"378 114","December 31, 2017","275 717",73%,0.00723%
 Iceland,"358 780","March 31, 2019","329 196",92%,0.00863%
-"Northern cyprus","351 965","December 31, 2017",--,--,--
+"Northern cyprus","351 965","December 31, 2017",-,-,-
 Vanuatu,"304 500","July 1, 2018","71 050",23%,0.00186%
 Barbados,"287 025","July 1, 2019","233 604",81%,0.00612%
-"New caledonia (france)","282 200","January 1, 2018",--,--,--
-"French polynesia (france)","275 918","August 17, 2017",--,--,--
-Abkhazia,"244 832","January 1, 2018",--,--,--
+"New caledonia (france)","282 200","January 1, 2018",-,-,-
+"French polynesia (france)","275 918","August 17, 2017",-,-,-
+Abkhazia,"244 832","January 1, 2018",-,-,-
 "So tom and prncipe","201 784","July 1, 2018","61 155",30%,0.0016%
 Samoa,"200 874","July 1, 2019","66 023",33%,0.00173%
 "Saint lucia","180 454","July 1, 2019","90 889",50%,0.00238%
-"Guam (u.s.)","172 400","July 1, 2018",--,--,--
-"Curaao (netherlands)","158 665","January 1, 2019",--,--,--
-Artsakh,"148 000","January 1, 2019",--,--,--
+"Guam (u.s.)","172 400","July 1, 2018",-,-,-
+"Curaao (netherlands)","158 665","January 1, 2019",-,-,-
+Artsakh,"148 000","January 1, 2019",-,-,-
 Kiribati,"120 100","July 1, 2018","16 971",14%,0.00044%
-"Aruba (netherlands)","112 309","March 31, 2019",--,--,--
+"Aruba (netherlands)","112 309","March 31, 2019",-,-,-
 Grenada,"112 003","July 1, 2019","63 692",57%,0.00167%
 "Saint vincent and the grenadines","110 608","July 1, 2019","72 048",65%,0.00189%
-"Jersey (uk)","106 800","December 31, 2018",--,--,--
-"Federated states of micronesia","105 300","July 1, 2018",--,--,--
-"United states virgin islands (u.s.)","104 578","July 1, 2019",--,--,--
+"Jersey (uk)","106 800","December 31, 2018",-,-,-
+"Federated states of micronesia","105 300","July 1, 2018",-,-,-
+"United states virgin islands (u.s.)","104 578","July 1, 2019",-,-,-
 Tonga,"100 651","November 30, 2016","44 558",44%,0.00117%
 "Antigua and barbuda","97 118","July 1, 2019","77 529",80%,0.00203%
 Seychelles,"96 762","June 30, 2018","55 677",58%,0.00146%
-"Isle of man (uk)","83 314","April 24, 2016",--,--,--
+"Isle of man (uk)","83 314","April 24, 2016",-,-,-
 Andorra,"76 177","December 31, 2018","76 095",100%,0.00199%
 Dominica,"71 808","July 1, 2019","51 467",72%,0.00135%
-"Cayman islands (uk)","65 813","December 31, 2018",--,--,--
-"Bermuda (uk)","64 027","July 1, 2019",--,--,--
-"Guernsey (uk)","62 734","June 30, 2018",--,--,--
-"American samoa (u.s.)","56 700","July 1, 2018",--,--,--
-"Northern mariana islands (u.s.)","56 200","July 1, 2018",--,--,--
-"Greenland (denmark)","55 992","January 1, 2019",--,--,--
+"Cayman islands (uk)","65 813","December 31, 2018",-,-,-
+"Bermuda (uk)","64 027","July 1, 2019",-,-,-
+"Guernsey (uk)","62 734","June 30, 2018",-,-,-
+"American samoa (u.s.)","56 700","July 1, 2018",-,-,-
+"Northern mariana islands (u.s.)","56 200","July 1, 2018",-,-,-
+"Greenland (denmark)","55 992","January 1, 2019",-,-,-
 "Marshall islands","55 500","July 1, 2018","20 560",37%,0.00054%
-"South ossetia","53 532","October 15, 2015",--,--,--
+"South ossetia","53 532","October 15, 2015",-,-,-
 "Saint kitts and nevis","52 823","July 1, 2019","44 669",85%,0.00117%
-"Faroe islands (denmark)","51 705","May 1, 2019",--,--,--
-"Turks and caicos islands (uk)","41 369","July 1, 2018",--,--,--
-"Sint maarten (netherlands)","40 614","January 1, 2018",--,--,--
+"Faroe islands (denmark)","51 705","May 1, 2019",-,-,-
+"Turks and caicos islands (uk)","41 369","July 1, 2018",-,-,-
+"Sint maarten (netherlands)","40 614","January 1, 2018",-,-,-
 Liechtenstein,"38 380","December 31, 2018","37 201",97%,0.00098%
 Monaco,"38 300","December 31, 2018","37 553",98%,0.00098%
-"Saint-martin (france)","35 746","January 1, 2016",--,--,--
-"Gibraltar (uk)","33 701","July 1, 2019",--,--,--
+"Saint-martin (france)","35 746","January 1, 2016",-,-,-
+"Gibraltar (uk)","33 701","July 1, 2019",-,-,-
 "San marino","33 431","April 30, 2019","20 100",60%,0.00053%
-"British virgin islands (uk)","30 030","July 1, 2019",--,--,--
-Palau,"17 900","July 1, 2018",--,--,--
-"Cook islands (nz)","15 200","July 1, 2018",--,--,--
-"Anguilla (uk)","14 869","July 1, 2019",--,--,--
-"Wallis and futuna (france)","11 700","July 1, 2018",--,--,--
+"British virgin islands (uk)","30 030","July 1, 2019",-,-,-
+Palau,"17 900","July 1, 2018",-,-,-
+"Cook islands (nz)","15 200","July 1, 2018",-,-,-
+"Anguilla (uk)","14 869","July 1, 2019",-,-,-
+"Wallis and futuna (france)","11 700","July 1, 2018",-,-,-
 Nauru,"11 000","July 1, 2018","6 475",59%,0.00017%
 Tuvalu,"10 200","July 1, 2018","5 520",54%,0.00014%
-"Saint barthlemy (france)","9 793","January 1, 2016",--,--,--
-"Saint pierre and miquelon (france)","6 008","January 1, 2016",--,--,--
-"Saint helena, ascensionand tristan da cunha (uk)","5 633","February 7, 2016",--,--,--
-"Montserrat (uk)","4 989","July 1, 2019",--,--,--
-"Falkland islands (uk)","3 198","October 9, 2016",--,--,--
-"Christmas island (australia)","1 928","June 30, 2018",--,--,--
-"Norfolk island (australia)","1 756","June 30, 2018",--,--,--
-"Niue (nz)","1 520","July 1, 2018",--,--,--
-"Tokelau (nz)","1 400","July 1, 2018",--,--,--
-"Vatican city",799,"July 1, 2019",--,--,--
-"Cocos (keeling) islands (australia)",538,"June 30, 2018",--,--,--
-"Pitcairn islands (uk)",50,"January 1, 2019",--,--,--
-"Hong kong","7 364 883",--,"6 585 678",89%,0.17265%
-"Palestinian authority","4 920 724",--,"3 208 312",65%,0.08411%
-"Puerto rico","3 663 131",--,"2 664 928",73%,0.06986%
-Macedonia,"2 083 160",--,"1 589 659",76%,0.04167%
-Macau,"622 567",--,"517 789",83%,0.01357%
-Swaziland,"1 367 254",--,"414 278",30%,0.01086%
-"Timor leste","1 296 311",--,"356 356",27%,0.00934%
-"The bahamas","395 361",--,"336 057",85%,0.00881%
-"Cabo verde","546 388",--,"312 315",57%,0.00819%
-"New caledonia","276 255",--,"226 557",82%,0.00594%
-"French polynesia","283 007",--,"205 746",73%,0.00539%
-Guam,"164 229",--,"132 221",81%,0.00347%
-Aruba,"105 264",--,"102 285",97%,0.00268%
-"U.s. virgin islands","104 901",--,"67 535",64%,0.00177%
-Bermuda,"61 349",--,"60 349",98%,0.00158%
-"Cayman islands","61 559",--,"49 906",81%,0.00131%
-"Faroe islands","49 290",--,"48 097",98%,0.00126%
-Greenland,"56 480",--,"39 242",69%,0.00103%
-Jersey,"165 314",--,"38 958",24%,0.00102%
-"Micronesia, federated states of","105 544",--,"37 257",35%,0.00098%
-Gibraltar,"34 571",--,"32 494",94%,0.00085%
-"British virgin islands","31 196",--,"14 456",46%,0.00038%
-Anguilla,"14 909",--,"12 043",81%,0.00032%
-"Saint helena","4 534",--,"2 906",64%,8.0E-5%
-"Falkland islands","2 910",--,"2 881",99%,8.0E-5%
-Montserrat,"5 177",--,"2 833",55%,7.0E-5%
-"Wallis and futuna","11 773",--,"1 383",12%,4.0E-5%
-Niue,"1 618",--,"1 034",64%,3.0E-5%
-Ascension,806,--,361,45%,1.0E-5%
+"Saint barthlemy (france)","9 793","January 1, 2016",-,-,-
+"Saint pierre and miquelon (france)","6 008","January 1, 2016",-,-,-
+"Saint helena, ascensionand tristan da cunha (uk)","5 633","February 7, 2016",-,-,-
+"Montserrat (uk)","4 989","July 1, 2019",-,-,-
+"Falkland islands (uk)","3 198","October 9, 2016",-,-,-
+"Christmas island (australia)","1 928","June 30, 2018",-,-,-
+"Norfolk island (australia)","1 756","June 30, 2018",-,-,-
+"Niue (nz)","1 520","July 1, 2018",-,-,-
+"Tokelau (nz)","1 400","July 1, 2018",-,-,-
+"Vatican city",799,"July 1, 2019",-,-,-
+"Cocos (keeling) islands (australia)",538,"June 30, 2018",-,-,-
+"Pitcairn islands (uk)",50,"January 1, 2019",-,-,-
+"Hong kong","7 364 883",-,"6 585 678",89%,0.17265%
+"Palestinian authority","4 920 724",-,"3 208 312",65%,0.08411%
+"Puerto rico","3 663 131",-,"2 664 928",73%,0.06986%
+Macedonia,"2 083 160",-,"1 589 659",76%,0.04167%
+Macau,"622 567",-,"517 789",83%,0.01357%
+Swaziland,"1 367 254",-,"414 278",30%,0.01086%
+"Timor leste","1 296 311",-,"356 356",27%,0.00934%
+"The bahamas","395 361",-,"336 057",85%,0.00881%
+"Cabo verde","546 388",-,"312 315",57%,0.00819%
+"New caledonia","276 255",-,"226 557",82%,0.00594%
+"French polynesia","283 007",-,"205 746",73%,0.00539%
+Guam,"164 229",-,"132 221",81%,0.00347%
+Aruba,"105 264",-,"102 285",97%,0.00268%
+"U.s. virgin islands","104 901",-,"67 535",64%,0.00177%
+Bermuda,"61 349",-,"60 349",98%,0.00158%
+"Cayman islands","61 559",-,"49 906",81%,0.00131%
+"Faroe islands","49 290",-,"48 097",98%,0.00126%
+Greenland,"56 480",-,"39 242",69%,0.00103%
+Jersey,"165 314",-,"38 958",24%,0.00102%
+"Micronesia, federated states of","105 544",-,"37 257",35%,0.00098%
+Gibraltar,"34 571",-,"32 494",94%,0.00085%
+"British virgin islands","31 196",-,"14 456",46%,0.00038%
+Anguilla,"14 909",-,"12 043",81%,0.00032%
+"Saint helena","4 534",-,"2 906",64%,8.0E-5%
+"Falkland islands","2 910",-,"2 881",99%,8.0E-5%
+Montserrat,"5 177",-,"2 833",55%,7.0E-5%
+"Wallis and futuna","11 773",-,"1 383",12%,4.0E-5%
+Niue,"1 618",-,"1 034",64%,3.0E-5%
+Ascension,806,-,361,45%,1.0E-5%

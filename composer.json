@@ -1,0 +1,19 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "require": {
+        "symfony/dom-crawler": "^4.3",
+        "symfony/css-selector": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rtb\\Population\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\Rtb\\Population\\": "tests/"
+        }
+    }
+}

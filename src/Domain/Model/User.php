@@ -29,10 +29,6 @@ final class User
         ?int $internetUsers = null,
         ?int $total = null
     ) {
-        if ($country->name() === 'saint helena') {
-            $a = 1;
-
-        }
         $this->country = $country;
         $this->population = $population;
         $this->dateTime = $dateTime;
